@@ -2,7 +2,7 @@
 
 I am an aspiring web developer.
 - Currently making my way through the Career Foundry Full-Stack Web Development course.
-- In my free time I enjoy playing video games and with mechanical keyboards.
+- In my free time I enjoy mechanical keyboards and playing video games.
 - My pronouns are she/her.
 
 ### Languages:
