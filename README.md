@@ -1,6 +1,6 @@
 # Hi there, I'm Kelly 👋
 
-I'm a full stack web developer interested in accessibility and design.  I'm an avid learner and problem solver.
+I'm a full stack web developer looking to build meaningful user experiences.  I'm an avid learner and problem solver.
 
 - 🌱 Currently learning: cloud computing with AWS
 - 🔧 Working on: a new React project for mechanical keyboards
