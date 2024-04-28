@@ -17,4 +17,4 @@ I'm a full stack web developer looking to build meaningful user experiences.  I'
 ## Get in Touch
 - [Portfolio Website](https://kellys.dev)
 - [LinkedIn](https://www.linkedin.com/in/kellysdev/)
-- [![Buymeacoffee](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&label)](https://https://www.buymeacoffee.com/kellysdev)
+- [![Buymeacoffee](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&label)](https://www.buymeacoffee.com/kellysdev)
