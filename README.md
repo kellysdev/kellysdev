@@ -2,10 +2,10 @@
 
 I'm a full stack web developer looking to build meaningful user experiences.  I'm an avid learner and problem solver.
 
-- 🌱 Currently learning: cloud computing with AWS
+- 🌱 Currently learning: diving deeper into Redux and React
 - 🔧 Working on: a new React project for mechanical keyboards
 - :octocat: Pronouns: she/her
-- 🎮 Playing: Baldur's Gate 3
+- 🎮 Playing: Hades
 
 ## Languages & Tools:
 <p align="center">
