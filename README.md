@@ -5,7 +5,7 @@ I'm a full stack web developer looking to build meaningful user experiences.  I'
 - 🌱 Currently learning: diving deeper into Redux and React
 - 🔧 Working on: a new React project for mechanical keyboards
 - :octocat: Pronouns: she/her
-- 🎮 Playing: Zenless Zone Zero
+- 🎮 Playing: Star Wars Outlaws
 
 ## Languages & Tools:
 <p align="center">
