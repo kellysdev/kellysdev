@@ -2,7 +2,7 @@
 
 I'm a full stack web developer looking to build meaningful user experiences.  I'm an avid learner and problem solver.
 
-- 🌱 Currently learning: diving deeper into Redux and React
+- 🌱 Currently learning: diving deeper into Redux and React, and studying for a COMPTIA A+ cert
 - 🔧 Working on: a new React project for mechanical keyboards
 - :octocat: Pronouns: she/her
 - 🎮 Playing: Star Wars Outlaws and Reka
