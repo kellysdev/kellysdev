@@ -1,4 +1,4 @@
-# Hi there, I'm Kelly 👋
+# Hi, I'm Kelly 👋
 
 I'm a full stack web developer looking to build meaningful user experiences.  I'm an avid learner and problem solver.
 
