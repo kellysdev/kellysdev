@@ -2,7 +2,7 @@
 
 I'm a full stack web developer looking to build meaningful user experiences.  I'm an avid learner and problem solver.
 
-- 🌱 Currently learning: AI and brushing up on vanilla JavaScript and CSS
+- 🌱 Currently learning: AI and diving deeper into vanilla JavaScript and CSS
 - 🔧 Working on: a new React project for mechanical keyboards
 - :octocat: Pronouns: she/her
 - 🎮 Playing: Stardew Valley and Pokemon TCGP
