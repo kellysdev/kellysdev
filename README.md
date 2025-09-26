@@ -10,7 +10,7 @@ I'm a full stack web developer looking to build meaningful user experiences.  I'
 ## Languages & Tools:
 <p align="center">
   <a href=https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,express,nodejs,react,mongodb,bootstrap,aws,netlify,npm,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongodb,bootstrap,aws,npm,github,vscode" />
   </a>
 </p>
 
