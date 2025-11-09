@@ -1,7 +1,5 @@
 # Hi, I'm Kelly 👋
 
-I'm a full stack web developer looking to build meaningful user experiences.  I'm an avid learner and problem solver.
-
 - :octocat: Pronouns: she/her
 - 🌱 Currently learning: Python, AI, and networking fundamentals
 - 🔧 Working on: a homelab
